@@ -1,3 +1,5 @@
+# This is a Mad Lib game, enjoy.
+
 noun1 = input("Enter a noun: ")
 noun2 = input("Enter a noun: ")
 verb1 = input("Enter a verb: ")
