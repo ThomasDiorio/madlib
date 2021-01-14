@@ -1,4 +1,4 @@
-# This is a Mad Lib game, enjoy.
+# This is a Mad Lib game, enjoy!!!.
 
 noun1 = input("Enter a noun: ")
 noun2 = input("Enter a noun: ")
